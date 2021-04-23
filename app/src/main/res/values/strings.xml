@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">testingMad</string>
+    <string name="btnName">Kavi B</string>
+    <string name="hintOne">KaviB is the best</string>
 </resources>
